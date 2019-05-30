@@ -23,3 +23,7 @@ figcaption {
 #logo h1 {
   font: normal 0.75em/1.5em Georgia, "New Times Roman", serif;
 }
+
+#logo h2 {
+  font: normal 0.5em/1em Georgia, "New Times Roman", serif;
+}
